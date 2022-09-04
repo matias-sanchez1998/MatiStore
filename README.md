@@ -6,7 +6,7 @@ Lo primero que realice fue crear una conexion a Mysql con la ayuda de su libreri
 Programe los query necesarios para las consultas necesitaba para mi front y agregue un .listen para conocer el estado de mi conexion.
 
 Luego que deje la api rest funcionando la aloje en heroku para luego pasar a la parte de frontend 
-Link del repositorio del BACKEND: 
+Link del repositorio del BACKEND: https://github.com/matias-sanchez1998/MatiStoreBackend
 
 -----------------------------------Frontend---------------------------------------
 
